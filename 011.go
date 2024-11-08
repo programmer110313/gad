@@ -7,7 +7,7 @@ import (
 func main() {
 	X := 3
 
-	Y := 4
+	Y := 3
 
 	fmt.Println((X) == (Y))
 

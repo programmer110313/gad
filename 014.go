@@ -9,6 +9,6 @@ func main() {
 
 	Y := 4
 
-	fmt.Println((X) == (Y))
+	fmt.Println((X) >= (Y))
 
 }

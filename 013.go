@@ -5,10 +5,7 @@ import (
 )
 
 func main() {
-	X := 3
-
-	Y := 4
-
-	fmt.Println((X) == (Y))
-
+	k := false
+	fmt.Println(k)
+	fmt.Println(!k)
 }

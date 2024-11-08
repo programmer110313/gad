@@ -5,10 +5,7 @@ import (
 )
 
 func main() {
-	X := 3
-
-	Y := 4
-
-	fmt.Println((X) == (Y))
-
+	for i := 1; i <= 5; i++ {
+		fmt.Println(i)
+	}
 }

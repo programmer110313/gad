@@ -5,10 +5,8 @@ import (
 )
 
 func main() {
-	X := 3
-
-	Y := 4
-
-	fmt.Println((X) == (Y))
+	X := 1
+	Y := 2
+	fmt.Println((X > Y) || (X == Y))
 
 }
